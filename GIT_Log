@@ -1,0 +1,151 @@
+GIT Commit Log:
+
+commit 2b9dcaed2a70e521fdd3f365f808ddb7abcb68b3 (HEAD -> main, origin/main, origin/HEAD)
+Author: JoeSchmitt-2 <84737443+JoeSchmitt-2@users.noreply.github.com>
+Date:   Tue Sep 14 16:48:52 2021 -0400
+
+    Version 1-4 that work with code
+
+commit a71adcdecd568b765e8cde53e2d7a84ac721433c
+:...skipping...
+commit 2b9dcaed2a70e521fdd3f365f808ddb7abcb68b3 (HEAD -> main, origin/main, origin/HEAD)
+Author: JoeSchmitt-2 <84737443+JoeSchmitt-2@users.noreply.github.com>
+Date:   Tue Sep 14 16:48:52 2021 -0400
+
+    Version 1-4 that work with code
+
+commit a71adcdecd568b765e8cde53e2d7a84ac721433c
+Author: JoeSchmitt-2 <84737443+JoeSchmitt-2@users.noreply.github.com>
+Date:   Tue Sep 14 16:46:03 2021 -0400
+
+    Revision of parts 1-4
+    
+    Part 2 needed no revising from previous post. Revisions work with final version of Shell.
+
+commit 0c873302af7fd193bc39f90077853751b5e1f6be
+Author: chris-caballero <46636284+chris-caballero@users.noreply.github.com>
+Date:   Tue Sep 14 13:28:00 2021 -0400
+
+    Comments on the code
+
+commit 536bcc7048ab2e2b3a9f929f84ac14f3f1962075
+Author: Chris Caballero <cmc17g@my.fsu.edu>
+Date:   Tue Sep 14 11:43:35 2021 -0400
+
+    Updates
+
+commit 74ba7c3b9913e43e94a2b5b9abd67ab55a96fbef
+Author: Chris Caballero <cmc17g@my.fsu.edu>
+Date:   Tue Sep 14 10:43:00 2021 -0400
+
+    Tar File
+
+commit 529e510c3db31715f91488c7dcdf59acc0300483
+Author: Chris Caballero <cmc17g@my.fsu.edu>
+Date:   Mon Sep 13 23:00:38 2021 -0400
+
+    Working Version of the Shell
+    
+    All parts should be implemented.
+    Part 9 is now working properly (apparently), and background processes plus jobs are being handled. Part 10 built ins are being taken care of before we do anything.
+
+commit b8977f9886c2159fb3f728e26b0f87997a9e011c
+Author: Chris Caballero <cmc17g@my.fsu.edu>
+Date:   Sun Sep 12 13:20:17 2021 -0400
+
+    Update File Format
+:...skipping...
+commit 2b9dcaed2a70e521fdd3f365f808ddb7abcb68b3 (HEAD -> main, origin/main, origin/HEAD)
+Author: JoeSchmitt-2 <84737443+JoeSchmitt-2@users.noreply.github.com>
+Date:   Tue Sep 14 16:48:52 2021 -0400
+
+    Version 1-4 that work with code
+
+commit a71adcdecd568b765e8cde53e2d7a84ac721433c
+Author: JoeSchmitt-2 <84737443+JoeSchmitt-2@users.noreply.github.com>
+Date:   Tue Sep 14 16:46:03 2021 -0400
+
+    Revision of parts 1-4
+    
+    Part 2 needed no revising from previous post. Revisions work with final version of Shell.
+
+commit 0c873302af7fd193bc39f90077853751b5e1f6be
+Author: chris-caballero <46636284+chris-caballero@users.noreply.github.com>
+Date:   Tue Sep 14 13:28:00 2021 -0400
+
+    Comments on the code
+
+commit 536bcc7048ab2e2b3a9f929f84ac14f3f1962075
+Author: Chris Caballero <cmc17g@my.fsu.edu>
+Date:   Tue Sep 14 11:43:35 2021 -0400
+
+    Updates
+
+commit 74ba7c3b9913e43e94a2b5b9abd67ab55a96fbef
+Author: Chris Caballero <cmc17g@my.fsu.edu>
+Date:   Tue Sep 14 10:43:00 2021 -0400
+
+    Tar File
+
+commit 529e510c3db31715f91488c7dcdf59acc0300483
+Author: Chris Caballero <cmc17g@my.fsu.edu>
+Date:   Mon Sep 13 23:00:38 2021 -0400
+
+    Working Version of the Shell
+    
+    All parts should be implemented.
+    Part 9 is now working properly (apparently), and background processes plus jobs are being handled. Part 10 built ins are being taken care of before we do anything.
+
+commit b8977f9886c2159fb3f728e26b0f87997a9e011c
+Author: Chris Caballero <cmc17g@my.fsu.edu>
+Date:   Sun Sep 12 13:20:17 2021 -0400
+
+    Update File Format
+    
+    changed organization and makefile header referencing
+
+commit 6ced10561fcdbc574ee3f330b072a5d3526fd5a6
+Author: Chris Caballero <cmc17g@my.fsu.edu>
+Date:   Sun Sep 12 12:50:40 2021 -0400
+
+    Update shell.c
+
+commit 6d376ce86d8336df02952374ae38695237566d37
+Author: Chris Caballero <cmc17g@my.fsu.edu>
+Date:   Sun Sep 12 12:37:37 2021 -0400
+
+    Temporary Parts 1-8
+    
+    Parts 7, 8 finalized.
+    fix #2 #3
+
+commit 109bb0a64fabf1584f0c3025ace697cabe0fe9a4
+Author: Chris Caballero <cmc17g@my.fsu.edu>
+Date:   Sat Sep 11 12:05:44 2021 -0400
+
+    Temporary (parts 1-6)
+    
+    removing unneeded files
+
+commit 9d105cc1858e6ddf7d337ba5968c9b66f6b19924
+Author: Chris Caballero <cmc17g@my.fsu.edu>
+Date:   Sat Sep 11 12:04:18 2021 -0400
+
+    temp. parts 1-6
+    
+    A basic version of parts 1-6.
+    This is temporary while I work on my parts (7-9).
+
+commit cff4e8a907bcd1a2574b6a39bcb0f431b05d2d5e
+Author: JoeSchmitt-2 <84737443+JoeSchmitt-2@users.noreply.github.com>
+Date:   Thu Sep 9 00:57:13 2021 -0400
+
+    Initial post of pt. 1, 2, 3
+    
+    Needs some more error checking for part 2 and i'll have pt. 4 up soon.
+
+commit e1222a75abf28331728ef31584ec298611c1765c
+Author: rwhitwo <72528884+rwhitwo@users.noreply.github.com>
+Date:   Sat Aug 28 10:18:49 2021 -0400
+
+    Initial commit
