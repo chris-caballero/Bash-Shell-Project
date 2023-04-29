@@ -31,7 +31,6 @@ Implements a basic shell using C
 	(3) Once you type run 'make', you can run the shell using './shell'
 	(4) To remove the executable type 'make clean'
 
-
 ## Known Bugs:
 	(1) The number of processes shown at the end of execution may be wrong if an invalid process
 	    is passed in. I was having trouble updating a pointers value from within some functions, 
@@ -40,9 +39,3 @@ Implements a basic shell using C
 	(3) Background processes can report right when your command prompt is trying to load and it will 
 	    sort of eat the text printed out. I think it might be that stdout wasn't flushing, but I'm not sure.
 	(4) Niche scenarios may cause seg fault because I am handling the memory assuming that certain conditions are met.
-
-
-## Considerations:
-	(1) There should be consideration made that our team member dropped out of the assignment last minute and produced no work.
-	(2) As above, I implemented two of the extra credits. The shell-ception can be directly tested, and the infinite pipes
-	    is documented in shell.c's chain_pipes(...) and link_commands(...).
