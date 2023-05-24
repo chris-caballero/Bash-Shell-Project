@@ -25,11 +25,8 @@ Implements a basic shell using C
 #### GIT_Log is the commit log for our repository
 
 ## Makefile:
-	(1) There will not be an executable when you first use this so running "make"
-	    from within the Basic_Shell folder should work to compile the processes.
-	(2) I am a bit rusty with makefiles so I kind of just did it in a long string.
-	(3) Once you type run 'make', you can run the shell using './shell'
-	(4) To remove the executable type 'make clean'
+	(1) First run 'make', you can then run the shell using './shell'
+	(2) To remove the executable type 'make clean'
 
 ## Known Bugs:
 	(1) The number of processes shown at the end of execution may be wrong if an invalid process
