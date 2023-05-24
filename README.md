@@ -1,7 +1,6 @@
 # Basic-Shell
 Implements a basic shell using C
 
-## Tar Archive:
 #### Basic_Shell has everything the shell needs to be made and ran
     (1) Token has the .h and .c files for the token and tokenlist structs 
 	    (a) token.h has the structs and respective function declarations
@@ -30,9 +29,10 @@ Implements a basic shell using C
 
 ## Known Bugs:
 	(1) The number of processes shown at the end of execution may be wrong if an invalid process
-	    is passed in. I was having trouble updating a pointers value from within some functions, 
-	    so I couldn't get it to update if the command failed.
-	(2) Doesn't always report an error when you type an invalid command (not sure why).
+	    is passed in. This is caused by difficulties getting pointers to properly update if a command failed.
+	(2) Doesn't always report an error when you type an invalid command.
 	(3) Background processes can report right when your command prompt is trying to load and it will 
-	    sort of eat the text printed out. I think it might be that stdout wasn't flushing, but I'm not sure.
-	(4) Niche scenarios may cause seg fault because I am handling the memory assuming that certain conditions are met.
+	    sort of eat the text printed out. 
+        - I think it might be that stdout wasn't flushing, but I'm not sure. This happens even in the normal shell, so I figure it is a bit involved and not a serious issue. 
+        - This likely has to do with terminal control, which is out of the scope of this project.
+	(4) Niche scenarios may cause seg fault because I am handling the memory assuming that certain conditions are met. Edge cases can be weeded out in future work.
